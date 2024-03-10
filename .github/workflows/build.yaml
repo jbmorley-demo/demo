@@ -11,7 +11,7 @@ on:
 
 jobs:
 
-  buikd:
+  build:
 
     runs-on: ubuntu-latest
 
